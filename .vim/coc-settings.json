@@ -1,0 +1,49 @@
+{
+    "snippets.ultisnips.pythonPrompt": true,
+    "snippets.ultisnips.enable": true,
+    "snippets.ultisnips.directories": [
+        "$HOME/.vim/UltiSnips/"
+    ],
+    "translator.engines": [
+        "bing",
+        "youdao",
+        "haici"
+    ],
+    "coc.source.english0.enable": true,
+    "coc.source.english1.enable": true,
+    "coc.source.english2.enable": true,
+    "coc.source.english3.enable": true,
+    "coc.source.english0.filetypes": [
+        "markdown",
+        "latex"
+    ],
+    "coc.source.english1.filetypes": [
+        "markdown",
+        "latex"
+    ],
+    "coc.source.english2.filetypes": [
+        "markdown",
+        "latex"
+    ],
+    "coc.source.english3.filetypes": [
+        "markdown",
+        "latex"
+    ],
+    "python.linting.pylintEnabled": false,
+    "python.condaPath": "/opt/anaconda/bin/",
+    "python.pythonPath": "~/.conda/envs/compute/bin/python3",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "clangd.enabled": true,
+    "coc.source.vimtex.enable": true,
+    "coc.source.vimtex.filetypes": [
+        "tex",
+        "plaintex",
+        "latex"
+    ],
+    "explorer.icon.enableNerdfont": true,
+    "explorer.toggle": true,
+    "highlight.colors.enable": true,
+    "colors.enable": true
+
+}
