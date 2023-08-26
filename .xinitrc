@@ -50,9 +50,9 @@ fi
 
 while habak -ms -hi ~/.config/variety/Downloaded/Bing/
 do
-    sleep 600
+    sleep 300
 done &
 
-numlockx &
+exec numlockx on &
 
 exec dwm
