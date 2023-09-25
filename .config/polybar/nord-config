@@ -9,7 +9,7 @@
 # dpi = 192
 # Main monitor, default to MONITOR environment variable.
 # monitor = ${env:MONITOR:DP-2}
-monitor = DP-2
+monitor = DP-1
 
 # bar position, apply globally
 width = 100%
