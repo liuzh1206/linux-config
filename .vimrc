@@ -89,7 +89,7 @@ Plug 'KeitaNakamura/tex-conceal.vim'
 Plug 'ryanoasis/vim-devicons'
 Plug 'dhruvasagar/vim-table-mode'
 
-Plug 'jalvesaq/zotcite'
+" Plug 'jalvesaq/zotcite'
 " Plug 'quarto-dev/quarto-nvim'
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
