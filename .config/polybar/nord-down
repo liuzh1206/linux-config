@@ -11,7 +11,7 @@ click-left = rofi -show power-menu -modi power-menu:~/.config/polybar/scripts/ro
 
 [module/cpu]
 type = internal/cpu
-interval = 1
+interval = 0.5
 
 warn-percentage = 80
 
@@ -36,7 +36,7 @@ click-left = dwm-msg run_command view 8
 
 [module/memory]
 type = internal/memory
-interval = 3
+interval = 0.5
 
 format = <ramp-used> <label>
 
