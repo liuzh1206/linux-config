@@ -534,13 +534,13 @@ let g:coc_global_extensions = [
             \'coc-explorer',
             \'coc-highlight',
             \'coc-html',
-            \'coc-sh',
             \'coc-translator',
             \'coc-vimlsp',
             \'coc-vimtex',
             \'coc-xml',
             \'coc-yaml']
 
+            "\'coc-sh',
 " let g:coc_global_extensions = ['coc-json', 'coc-git', 'coc-jedi', 'coc-snippets', 'coc-python']
 
 set statusline^=%{get(g:,'coc_git_status','')}%{get(b:,'coc_git_status','')}%{get(b:,'coc_git_blame','')}
